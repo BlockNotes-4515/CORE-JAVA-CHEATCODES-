@@ -20,17 +20,6 @@ It contains various Java programs ranging from basic concepts to advanced implem
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-
-### 2. Navigate it into the Repository
-cd <repo-name>
-
-javac FileName.java
-
-java FileName
-
 📌 Notes
 
 This repository is primarily for backup and learning purposes.
@@ -45,3 +34,14 @@ Anyone can refer to these codes for practice and understanding concepts.
 Java JDK (version 8 or higher)
 
 Command line (or any IDE such as IntelliJ, Eclipse, or VS Code)
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+
+### 2. Navigate it into the Repository
+cd <repo-name>
+
+javac FileName.java
+
+java FileName
